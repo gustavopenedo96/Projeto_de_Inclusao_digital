@@ -1,2 +1,2 @@
-# Projeto_de_Inclusao_digital
-Contém um projeto de inclusão digital que busca trazer maior acessibilidade em comunidades de baixa renda.
+# Projeto de Inclusão digital
+### Contém um projeto de inclusão digital que busca trazer maior acessibilidade para comunidades de baixa renda.
